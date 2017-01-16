@@ -1,2 +1,4 @@
 buck-out/*
 tmp
+.buckd/
+.clang-format

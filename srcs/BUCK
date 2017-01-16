@@ -1,0 +1,9 @@
+cxx_binary(
+    name='subadjust',
+    srcs=[
+        'main.cpp',
+    ],
+    compiler_flags=['-lfolly', '-lgflags', '-lglog', '-std=c++1y'],
+    linker_flags=['-lfolly', '-lgflags', '-lglog', '-std=c++1y'],
+)
+
