@@ -1,11 +1,11 @@
-ajust_subtitle
+Quickly adjust your subtitle files.
 ---------------------------
 
-# Introduction
+### Introduction
 
 This program will help adjust the .srt subtitle file by certain amount of seconds.
 
-# Prerequisites
+### Prerequisites
 
 This program aims to showcase some of Facebook and Google's opensource technology.
 
@@ -24,7 +24,7 @@ brew install gflags
 brew install glog
 ```
 
-# User manual
+### User manual
 
 ```
 cd /path/to/adjust_subtitle
