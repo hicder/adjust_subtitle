@@ -1,5 +1,5 @@
 cxx_binary(
-    name='subadjust',
+    name='adjust_subtitle',
     srcs=[
         'main.cpp',
     ],
